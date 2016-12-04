@@ -1,5 +1,8 @@
 {
   "name": "Angular2Spa",
+  "scripts": {
+    "fixme": "webpack --config webpack.config.vendor.js --env.prod && webpack --env.prod"
+  },
   "version": "0.0.0",
   "dependencies": {
     "@angular/common": "2.0.2",
