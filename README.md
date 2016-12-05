@@ -4,7 +4,7 @@
 
 
 ```bash
-git clone https://github.com/JohannesHoppe/angularCore.get .
+git clone https://github.com/JohannesHoppe/angularCore.git .
 dotnet restore
 dotnet run --environment Development
 ```
