@@ -3,10 +3,10 @@
 ![](README_screenshot.png)
 
 
-```
-$ git clone https://github.com/JohannesHoppe/angularCore.get .
-$ dotnet restore
-$ dotnet run --environment Development
+```bash
+git clone https://github.com/JohannesHoppe/angularCore.get .
+dotnet restore
+dotnet run --environment Development
 ```
 <br>
 
@@ -20,5 +20,4 @@ $ dotnet run --environment Development
 ##[» Präsentation Starten](http://johanneshoppe.github.io/presentations/2016/Angular2_dotnetCore/)   
 
 
-_&copy; 2016, [Johannes Hoppe](http://haushoppe-its.de)
-_
+_&copy; 2016, [Johannes Hoppe](http://haushoppe-its.de)_
