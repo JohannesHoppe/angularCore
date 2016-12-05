@@ -1,0 +1,6 @@
+<h1>Books</h1>
+<hr>
+
+<p>
+  <book-item [book]="book" *ngFor="let book of books; let i = index" (rated)="reorderBooks($event)"></book-item>
+</p>
